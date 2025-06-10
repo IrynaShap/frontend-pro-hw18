@@ -1,0 +1,30 @@
+{
+  "name": "frontend-pro-hw18",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrynaShap/frontend-pro-hw18.git"
+  },
+  "author": "Iryna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IrynaShap/frontend-pro-hw18/issues"
+  },
+  "homepage": "https://github.com/IrynaShap/frontend-pro-hw18#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@eslint/js": "^8.57.1",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^10.1.5",
+    "globals": "^16.2.0",
+    "prettier": "3.5.3"
+  }
+}
